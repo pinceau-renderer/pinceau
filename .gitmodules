@@ -1,0 +1,9 @@
+[submodule "devlog"]
+	path = devlog
+	url = https://github.com/pinceau-renderer/devlog
+[submodule "pinceau-front"]
+	path = pinceau-front
+	url = https://github.com/pinceau-renderer/pinceau-front
+[submodule "pinceau-rs"]
+	path = pinceau-rs
+	url = https://github.com/pinceau-renderer/pinceau-rs
